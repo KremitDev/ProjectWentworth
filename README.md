@@ -18,6 +18,6 @@ Currently has full KB/M and controller support.
 
 -Pause = Escape/P or Special Right
 
--Toggle DLSS Quality = Enter (if possible)
+-Toggle DLSS Auto = Enter (if possible)
 
 -Toggle Lumen GI = V
