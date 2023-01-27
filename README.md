@@ -6,6 +6,10 @@ Currently has full KB/M and controller support.
 
 -Sprint = Left Shift or Left Thumbstick Down
 
+-Toggle Crouch = C or Face Button Right
+
+-Hold Crouch = Left CTRL
+
 -Fire = Left Click or Right Trigger
 
 -Aim = Right Click or Left Trigger
