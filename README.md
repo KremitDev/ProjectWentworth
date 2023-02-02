@@ -16,9 +16,13 @@ Currently has full KB/M and controller support.
 
 -Reload = R or Face Button Left
 
+-Use ability = Left Alt
+
 -Switch Fire Mode = X or D-Pad Down
 
 -Toggle Flashlight = F or D-Pad Up
+
+-Toggle Night-vision = N
 
 -Pause = Escape/P or Special Right
 
