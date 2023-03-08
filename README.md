@@ -22,6 +22,4 @@ Currently has full KB/M and controller support.
 
 -Toggle Flashlight = F or D-Pad Up
 
--Toggle Night-vision = N
-
 -Pause = Escape/P or Special Right
